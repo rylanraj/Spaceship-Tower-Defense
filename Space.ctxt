@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Space
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Space\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Space()
+comment2.params=
+comment2.target=void\ prepare()
+comment2.text=\r\n\ Prepare\ the\ world\ for\ the\ start\ of\ the\ program.\r\n\ That\ is\:\ create\ the\ initial\ objects\ and\ add\ them\ to\ the\ world.\r\n
+comment3.params=xsize\ ysize\ ypos
+comment3.target=void\ addWaveBar(double,\ double,\ double)
+comment4.params=shopzone\ xpos\ ypos
+comment4.target=void\ addShopZone(Shopzone,\ double,\ double)
+comment5.params=buyship\ xpos\ ypos
+comment5.target=void\ addBuyShipButton(Buyship,\ double,\ double)
+comment6.params=shop\ xpos\ ypos
+comment6.target=void\ addShopLine(Shop,\ double,\ double)
+comment7.params=trash\ xpos\ ypos
+comment7.target=void\ addTrash(Trash,\ double,\ double)
+comment8.params=xpos\ ypos
+comment8.target=void\ addSquares(double,\ double)
+comment9.params=square\ xpos\ ypos
+comment9.target=void\ addRefSquare(Square,\ double,\ double)
+numComments=10
