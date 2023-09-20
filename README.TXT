@@ -4,9 +4,9 @@ Tell the reader (someone who does not know anything about this project)
 all they need to know. The comments should usually include at least:
 ------------------------------------------------------------------------
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+PROJECT TITLE: SPACESHIPS VS TROLLS
+PURPOSE OF PROJECT: Show my understanding of using the Greenfoot engine in Java
+VERSION or DATE: Final
+HOW TO START THIS PROJECT: Open .greenfoot file in the application Greenfoot
+AUTHORS: Rylan Raj
+USER INSTRUCTIONS: Press start upon opening Greenfoot file
